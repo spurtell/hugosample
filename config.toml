@@ -1,0 +1,5 @@
+baseurl = "http://hugosample-hugo.e8ca.engint.openshiftapps.com"
+languageCode = "en-us"
+title = "Sample Static Site"
+log = true
+relativeURL = true
