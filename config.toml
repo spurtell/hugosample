@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Sample Static Site"
 log = true
 relativeURL = true
+theme = "mainroad"
