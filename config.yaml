@@ -3,3 +3,4 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
 title: "A Static Site Example"
+theme: "mainroad"
