@@ -1,0 +1,2 @@
+# hugosample
+hugo test repo
